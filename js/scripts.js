@@ -98,8 +98,6 @@ const swiper = new Swiper('.swiper__testimonials', {
   // }
   });
 gsap.registerPlugin(ScrollTrigger)
-
-
 const tLoader = gsap.timeline()
 
 //Loader
